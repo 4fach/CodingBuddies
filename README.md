@@ -6,7 +6,7 @@ Es fehlt nicht mehr viel und dann gehts, ab durch die **DECKE !!!*
 
 
 ## Meine Gitaren Helden!
-<a>Meshuggah</a><img src= 'https://www.youtube.com/watch?v=qc98u-eGzlc'></a>
-<p>Sam Westphalen</p>
-<p>Nohnda</p>
-<p>Friday Night in San Francisco</p>
+- [Meshuggah](https://www.youtube.com/channel/UCxLbFcGicScOE07gwngd18g)
+- Sam Westphalen
+- Nohnda
+- Friday Night in San Francisco

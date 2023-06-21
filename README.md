@@ -7,6 +7,6 @@ Es fehlt nicht mehr viel und dann gehts, ab durch die **DECKE !!!*
 <p>LLL = LebensLangesLernen</p>
 
 <a>Meshuggah</a>
-<a>Sam Westphalen</a>
-<a>Nohnda</a>
+<p>Sam Westphalen</p>
+<p>Nohnda</p>
 <p>Friday Night in San Francisco</p>

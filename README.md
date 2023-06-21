@@ -4,10 +4,9 @@
 
 Es fehlt nicht mehr viel und dann gehts, ab durch die **DECKE !!!*
 
-<p>LLL = LebensLangesLernen</p>
 
 ## Meine Gitaren Helden!
-<a>Meshuggah</a><a href='https://freecodecamp.org'></a>
+<a>Meshuggah</a><img src= 'https://www.youtube.com/watch?v=qc98u-eGzlc'></a>
 <p>Sam Westphalen</p>
 <p>Nohnda</p>
 <p>Friday Night in San Francisco</p>

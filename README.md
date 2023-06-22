@@ -5,7 +5,7 @@
 Es fehlt nicht mehr viel und dann gehts, ab durch die **DECKE !!!*
 
 
-## Meine Gitaren Helden!
+## Meine Gitarren Helden!
 - [Meshuggah](https://www.youtube.com/channel/UCxLbFcGicScOE07gwngd18g)
 - [Sam Westphalen](https://www.youtube.com/watch?v=k5SpXvRbJPc)
 - [Naudo](https://www.youtube.com/watch?v=7teiWcUvwHM)

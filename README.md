@@ -12,3 +12,8 @@ Es fehlt nicht mehr viel und dann gehts, ab durch die **DECKE !!!*
 - [Sam Westphalen](https://www.youtube.com/watch?v=k5SpXvRbJPc)
 - [Naudo](https://www.youtube.com/watch?v=7teiWcUvwHM)
 - [Friday Night in San Francisco](https://music.youtube.com/playlist?list=OLAK5uy_kG_EB-l7e3gxS9ZY2ytS9umB_CRWyT5gs)
+-
+-
+- git remote add origin git@github.com:GitHubUsername/repository-name.git
+git branch -M main
+git push -u origin main
